@@ -123,14 +123,9 @@ public class MainActivity extends AppCompatActivity {
         android:title="@string/bookmark" />
 </menu>
 ```
-
-
-
-
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/3b3044bc-c34d-4e84-af46-b6c5807b1ada)
-
 
 
 
